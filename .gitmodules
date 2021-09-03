@@ -1,0 +1,12 @@
+[submodule "JavaHomework1"]
+	path = JavaHomework1
+	url = https://github.com/Alexds7/JavaHomework1.git
+[submodule "JavaHomework2"]
+	path = JavaHomework2
+	url = https://github.com/Alexds7/JavaHomework2.git
+[submodule "JavaHomework3"]
+	path = JavaHomework3
+	url = https://github.com/Alexds7/JavaHomework3.git
+[submodule "JavaHomework4"]
+	path = JavaHomework4
+	url = https://github.com/Alexds7/JavaHomework4.git

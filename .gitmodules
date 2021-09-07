@@ -10,3 +10,7 @@
 [submodule "JavaHomework4"]
 	path = JavaHomework4
 	url = https://github.com/Alexds7/JavaHomework4.git
+[submodule "JavaHomework5_Exceptions"]
+	path = JavaHomework5_Exceptions
+	url = https://github.com/Alexds7/JavaHomework4
+	branch = JavaHomework5/LoginExistsException

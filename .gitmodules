@@ -14,3 +14,6 @@
 	path = JavaHomework5_Exceptions
 	url = https://github.com/Alexds7/JavaHomework4
 	branch = JavaHomework5/LoginExistsException
+[submodule "JavaHomework7_ImmutableClasses"]
+	path = JavaHomework7_ImmutableClasses
+	url = https://github.com/Alexds7/JavaHomework7

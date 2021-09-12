@@ -17,3 +17,6 @@
 [submodule "JavaHomework7_ImmutableClasses"]
 	path = JavaHomework7_ImmutableClasses
 	url = https://github.com/Alexds7/JavaHomework7
+[submodule "SalaryCalculator"]
+	path = SalaryCalculator
+	url = https://github.com/Alexds7/SalaryCalculator.git

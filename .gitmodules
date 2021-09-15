@@ -20,3 +20,6 @@
 [submodule "SalaryCalculator"]
 	path = SalaryCalculator
 	url = https://github.com/Alexds7/SalaryCalculator.git
+[submodule "JavaHomework8"]
+	path = JavaHomework8
+	url = https://github.com/Alexds7/JavaHomework8.git

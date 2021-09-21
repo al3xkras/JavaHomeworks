@@ -23,3 +23,6 @@
 [submodule "JavaHomework8"]
 	path = JavaHomework8
 	url = https://github.com/Alexds7/JavaHomework8.git
+[submodule "HW12_Collections"]
+	path = HW12_Collections
+	url = https://github.com/Alexds7/JavaHomework12_Collections

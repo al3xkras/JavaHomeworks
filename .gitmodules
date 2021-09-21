@@ -1,28 +1,27 @@
-[submodule "JavaHomework1"]
-	path = JavaHomework1
-	url = https://github.com/Alexds7/JavaHomework1.git
-[submodule "JavaHomework2"]
-	path = JavaHomework2
-	url = https://github.com/Alexds7/JavaHomework2.git
-[submodule "JavaHomework3"]
-	path = JavaHomework3
-	url = https://github.com/Alexds7/JavaHomework3.git
-[submodule "JavaHomework4"]
-	path = JavaHomework4
-	url = https://github.com/Alexds7/JavaHomework4.git
-[submodule "JavaHomework5_Exceptions"]
-	path = JavaHomework5_Exceptions
-	url = https://github.com/Alexds7/JavaHomework4
-	branch = JavaHomework5/LoginExistsException
-[submodule "JavaHomework7_ImmutableClasses"]
-	path = JavaHomework7_ImmutableClasses
-	url = https://github.com/Alexds7/JavaHomework7
-[submodule "SalaryCalculator"]
+[submodule "HW1_BasicJava_MVC"]
+	path = HW1_BasicJava_MVC
+	url = https://github.com/Alexds7/HW1_BasicJava_MVC
+[submodule "HW2_JUnit"]
+	path = HW2_JUnit
+	url = https://github.com/Alexds7/HW2_JUnit
+[submodule "HW3_Maven_Git"]
+	path = HW3_Maven_Git
+	url = https://github.com/Alexds7/HW3_Maven_Git
+[submodule "HW4_Regex"]
+	path = HW4_Regex
+	url = https://github.com/Alexds7/HW4_Regex
+[submodule "HW6_ImmutableClasses"]
+	path = HW6_ImmutableClasses
+	url = https://github.com/Alexds7/HW6_ImmutableClasses
+[submodule "Additional_SalaryCalculator"]
 	path = SalaryCalculator
-	url = https://github.com/Alexds7/SalaryCalculator.git
-[submodule "JavaHomework8"]
-	path = JavaHomework8
-	url = https://github.com/Alexds7/JavaHomework8.git
-[submodule "HW12_Collections"]
-	path = HW12_Collections
-	url = https://github.com/Alexds7/JavaHomework12_Collections
+	url = https://github.com/Alexds7/SalaryCalculator
+[submodule "HW7_Interfaces_AbstractClasses"]
+	path = HW7_Interfaces_AbstractClasses
+	url = https://github.com/Alexds7/HW7_Interfaces_AbstractClasses
+[submodule "HW8_Collections"]
+	path = HW8_Collections
+	url = https://github.com/Alexds7/HW8_Collections
+[submodule "HW5_Exceptions"]
+	path = HW5_Exceptions
+	url = https://github.com/Alexds7/HW4_Regex

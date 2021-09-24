@@ -25,3 +25,9 @@
 [submodule "HW5_Exceptions"]
 	path = HW5_Exceptions
 	url = https://github.com/Alexds7/HW4_Regex
+[submodule "HW9_SpringBoot"]
+	path = HW9_SpringBoot
+	url = https://github.com/Alexds7/HW9_SpringBoot
+[submodule "HW9_2_Java8"]
+	path = HW9_2_Java8
+	url = https://github.com/Alexds7/HW9_2_Java8
